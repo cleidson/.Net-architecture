@@ -4,5 +4,5 @@ Features
 Uncoupling.
 - Partner used: Service, Strategy, MVC.
 
-Future Updates:
-Injection injection application.
+Future Updates
+- Injection injection application.

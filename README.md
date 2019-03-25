@@ -6,11 +6,10 @@ Uncoupling.
 
 Future Updates
 - Injection injection application.
-
-| Tables        | Are           | Cool  |
-| Action future                 |
-| ------------- |:-------------:|
-| 1 - Criação da arquitetura    |
-| 2 - Atualização usando IOC.   |
+ 
+| Action future                        |
+| ------------------------------------ |
+| 1 - Architecture creation            |
+| 2 - Update architecture using IOC.   |
 
 
